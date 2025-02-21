@@ -1,1 +1,1 @@
-[](https://Prokopenko11.github.io/ra-events-state-layouts)
+https://Prokopenko11.github.io/ra-events-state-layouts
